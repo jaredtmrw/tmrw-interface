@@ -76,7 +76,7 @@ export const PAGES = [
     },
     right_panel: {
       header: {
-        title: "Watershed Security (Updated)",
+        title: "Watershed Security",
         subtitle: "Meiners Oaks Basin",
         neighborhood_ranking: "Meiners Oaks is currently the 2nd most vulnerable sub-basin in the Ojai Valley for concurrent flood and fire events.",
         status_chips: [
